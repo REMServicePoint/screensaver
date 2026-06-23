@@ -1,2 +1,2 @@
 # screensaver
-for visitor kiosk ipad
+AGI Triton Building for visitor kiosk ipad
